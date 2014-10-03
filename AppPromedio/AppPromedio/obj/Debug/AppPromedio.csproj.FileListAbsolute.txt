@@ -1,0 +1,6 @@
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppPromedio\AppPromedio\bin\Debug\AppPromedio.exe.config
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppPromedio\AppPromedio\obj\Debug\AppPromedio.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppPromedio\AppPromedio\bin\Debug\AppPromedio.exe
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppPromedio\AppPromedio\bin\Debug\AppPromedio.pdb
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppPromedio\AppPromedio\obj\Debug\AppPromedio.exe
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppPromedio\AppPromedio\obj\Debug\AppPromedio.pdb
